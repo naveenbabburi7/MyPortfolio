@@ -6,20 +6,17 @@ import { FaXTwitter } from "react-icons/fa6";
 
 function Links() {
   return (
-    <div className="flex gap-4">
+    <div className="flex gap-4 flex-col md:flex-row w-full justify-center items-center">
 
-      <a href="https://www.linkedin.com/in/sharan-karchella/recent-activity/all/">
+      <a href="https://www.linkedin.com/in/naveen-kumar-babburi/">
         <FaLinkedin size="48px" />
       </a>
-      <a href="https://github.com/SharanKarchella">
+      <a href="https://github.com/naveenbabburi7">
         <FaGithub size="48px" />
       </a>
-      <a href="https://www.instagram.com/karchellasharan/">
+       {/* <a href="https://www.instagram.com/karchellasharan/">
         <FaSquareInstagram size="48px"/>
-      </a>
-      <a href="https://x.com/SKarchella">
-        <FaXTwitter size="48px"/>
-      </a>
+      </a> */}
 
     </div>
   );
