@@ -14,9 +14,9 @@ function Links() {
       <a href="https://github.com/naveenbabburi7">
         <FaGithub size="48px" />
       </a>
-       {/* <a href="https://www.instagram.com/karchellasharan/">
+       <a href="https://www.instagram.com/naughty__boy_naveen/">
         <FaSquareInstagram size="48px"/>
-      </a> */}
+      </a>
 
     </div>
   );
